@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class QuickTester {
     public static void main(String[]args) throws SQLException, ClassNotFoundException {
 
-        System.out.println("testing");
+        System.out.println("testing again");
         //Connection con = new Connection();
         /*
         Map map = con.getTypeMap();
